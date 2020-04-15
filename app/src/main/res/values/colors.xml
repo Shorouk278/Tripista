@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1C7C54</color>
+    <color name="colorPrimaryDark">#1B512D</color>
+    <color name="colorAccent">#73E2A7</color>
+
+    <color name="upcoming_card_bg">#DEF4C6</color>
+    <color name="history_card_bg">#DEF4C6</color>
+
+    <color name="custom_button">#1B512D</color>
+    <color name="add_trip">@color/quantum_white_100</color>
+    <color name="edit_trip">#D7BCE8</color>
+
+    <color name="arrow_colors">#303F9F</color>
+    <color name="delete">@android:color/holo_red_light</color>
+</resources>

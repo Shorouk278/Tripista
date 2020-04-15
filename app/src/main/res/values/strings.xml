@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Tripista</string>
+    <string name="hint_user_name">user name</string>
+    <string name="hint_phone_number">phone number</string>
+    <string name="hint_password">password</string>
+    <string name="hint_confirm_password">confirm password</string>
+    <string name="signup_activity_name">sign up</string>
+    <string name="hint_user_email">email</string>
+    <string name="signup_email_alread_exust">email already exist</string>
+    <string name="signup_email_linke_sent">link sent to email</string>
+    <string name="signup_email_linke_not_sent">email don`t sent</string>
+    <string name="error_on_send_verify">cant send Verficatio on this mail</string>
+    <string name="saved_in_fire_base">saved successfully</string>
+    <string name="hint_user_email_phone">enter your email or phone</string>
+    <string name="txt_forget_password">forget password</string>
+    <string name="txt_or">OR</string>
+    <string name="next">next</string>
+    <string name="txt_have_account">already have an account?</string>
+    <string name="logged_in_successfuly">Logged in successfully</string>
+    <string name="login_failed">wrong email or password</string>
+
+    <string name="verfy_error">this email is not verfiy</string>
+    <string name="signin_failed">Sign in failed</string>
+    <!-- Facebook Strings-->
+    <string name="facebook_app_id">654784595275405</string>
+    <string name="fb_login_protocol_scheme">fb654784595275405</string>
+
+    <!-- nav drawer strings -->
+    <string name="def_user_name">User Name</string>
+    <string name="upcomming">Upcomming</string>
+    <string name="history">History</string>
+    <string name="other">Other</string>
+    <string name="sync">Sync</string>
+    <string name="logout">Log out</string>
+    <string name="def_email">Email</string>
+    <string name="navigation_drawer_open">open navigation drawer</string>
+    <string name="navigation_drawer_close">close navigation drawer</string>
+
+    <string name="hint_verfy_code">code</string>
+    <string name="phone_verified">Phone Verfied</string>
+    <string name="phone_wrong">phone can`t verfied</string>
+    <string name="start_details">Start Details</string>
+    <string name="add_trip">Add trip</string>
+    <string name="three_dots"><![CDATA[&#8942;]]></string>
+    <string name="wrong_code">Wrong Code</string>
+    <string name="no_account_related">no account related for this mobile</string>
+    <string name="trip_title">Trip title</string>
+    <string name="from">From</string>
+    <string name="destination">Destination</string>
+    <string name="return_details">Return details</string>
+    <string name="add_note">Add Note</string>
+    <string name="note_added_successfully">Note Added Successfully</string>
+    <string name="note_didnt_added">can`t add this note</string>
+    <string name="updated_successfuly">Trip updated sucessfully</string>
+    <string name="update_trip">Update trip</string>
+    <string name="one_way">One-Way trip</string>
+    <string name="round_trip">Round trip</string>
+
+    <!-- Alert for alarm-->
+    <string name="start">Start</string>
+    <string name="snooze">Snooze</string>
+    <string name="stop">Stop</string>
+    <string name="time_for_trip">Your trip is waiting</string>
+
+    <!-- toolbar strings-->
+    <string name="upcomming_trips">Upcomming Trips</string>
+    <string name="trip_history">Your trip history</string>
+    <string name="add_new_trip">Add new trip</string>
+    <string name="edit_trip">Edit trip</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="map_history">Map History</string>
+
+    <string name="view_notes">View Notes</string>
+
+    <!-- alarm repeat-->
+    <string name="none">None</string>
+    <string name="alarm_repeat">Alarm repeat</string>
+    <string name="daily">Daily</string>
+    <string name="weekly">Weekly</string>
+    <string name="monthly">Monthly</string>
+    <string name="km">K.M</string>
+    <string name="no_trips">You currently have no trips. Tap (+) to get started</string>
+    <string name="email_phone_layout_error">this is not phone or email please enter correct data</string>
+    <string name="user_name_empty">user name is empty</string>
+    <string name="email_empty">email is empty</string>
+    <string name="phone_empty">phone is empty</string>
+    <string name="password_empty">password is empty</string>
+    <string name="password_not_match">password don`t match</string>
+    <string name="password_small">password less than 6 letter</string>
+    <string name="delete_trip">Delete Trip</string>
+</resources>
